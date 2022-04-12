@@ -2,18 +2,17 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "addr": "上海市 西藏拉萨" }, "geometry": { "type": "Point", "coordinates": [ 121.480538860176509, 31.235929042252014 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 四川成都" }, "geometry": { "type": "Point", "coordinates": [ 121.480538860176509, 31.235929042252014 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 陕西西安" }, "geometry": { "type": "Point", "coordinates": [ 125.155373303128087, 42.933308420624584 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 陕西澄城" }, "geometry": { "type": "Point", "coordinates": [ 109.938433603252946, 35.196572815551043 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 山西柳林" }, "geometry": { "type": "Point", "coordinates": [ 110.901353420088668, 37.438953517343684 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 北京" }, "geometry": { "type": "Point", "coordinates": [ 121.480538860176509, 31.235929042252014 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 河南濮阳" }, "geometry": { "type": "Point", "coordinates": [ 115.03558408559006, 35.717888889374784 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 广州梅州" }, "geometry": { "type": "Point", "coordinates": [ 121.345544292884099, 30.724285074420266 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 广州蕉岭" }, "geometry": { "type": "Point", "coordinates": [ 116.177439247934558, 24.664992548661576 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 湖南洞口" }, "geometry": { "type": "Point", "coordinates": [ 110.581823172164462, 27.061129653630275 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 上海" }, "geometry": { "type": "Point", "coordinates": [ 121.484868243581857, 31.240776068850483 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 福建厦门" }, "geometry": { "type": "Point", "coordinates": [ 121.480538860176509, 31.235929042252014 ] } },
-{ "type": "Feature", "properties": { "addr": "上海市 " }, "geometry": { "type": "Point", "coordinates": [ 121.480538860176509, 31.235929042252014 ] } }
+{ "type": "Feature", "properties": { "addr": "西藏拉萨  " }, "geometry": { "type": "Point", "coordinates": [ 91.136232010888193, 29.655702997622964 ] } },
+{ "type": "Feature", "properties": { "addr": "四川成都  " }, "geometry": { "type": "Point", "coordinates": [ 104.072747274062081, 30.578993724029967 ] } },
+{ "type": "Feature", "properties": { "addr": "陕西西安  " }, "geometry": { "type": "Point", "coordinates": [ 108.946465550632738, 34.347268816623952 ] } },
+{ "type": "Feature", "properties": { "addr": "陕西澄城  " }, "geometry": { "type": "Point", "coordinates": [ 109.938433603252946, 35.196572815551043 ] } },
+{ "type": "Feature", "properties": { "addr": "山西柳林  " }, "geometry": { "type": "Point", "coordinates": [ 110.901353420088668, 37.438953517343684 ] } },
+{ "type": "Feature", "properties": { "addr": "北京  " }, "geometry": { "type": "Point", "coordinates": [ 116.413383697123095, 39.910924547299565 ] } },
+{ "type": "Feature", "properties": { "addr": "河南濮阳  " }, "geometry": { "type": "Point", "coordinates": [ 115.035597470342154, 35.76759302890629 ] } },
+{ "type": "Feature", "properties": { "addr": "广州梅州  " }, "geometry": { "type": "Point", "coordinates": [ 113.271431344459742, 23.135336306695006 ] } },
+{ "type": "Feature", "properties": { "addr": "广州蕉岭  " }, "geometry": { "type": "Point", "coordinates": [ 116.177439247934558, 24.664992548661576 ] } },
+{ "type": "Feature", "properties": { "addr": "湖南洞口  " }, "geometry": { "type": "Point", "coordinates": [ 110.581823172164462, 27.061129653630275 ] } },
+{ "type": "Feature", "properties": { "addr": "上海  " }, "geometry": { "type": "Point", "coordinates": [ 121.480538860176509, 31.235929042252014 ] } },
+{ "type": "Feature", "properties": { "addr": "福建厦门  " }, "geometry": { "type": "Point", "coordinates": [ 118.096435499766514, 24.485406605176305 ] } }
 ]
 }
