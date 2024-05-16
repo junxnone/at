@@ -66,8 +66,10 @@
 { "type": "Feature", "properties": { "addr": "左贡  " }, "geometry": { "type": "Point", "coordinates": [ 97.847366832988612, 29.676848537197444 ] } },
 { "type": "Feature", "properties": { "addr": "邦达镇  " }, "geometry": { "type": "Point", "coordinates": [ 97.299274718540957, 30.213348073358492 ] } },
 { "type": "Feature", "properties": { "addr": "八宿县  " }, "geometry": { "type": "Point", "coordinates": [ 96.924360446151979, 30.05902899139862 ] } },
+{ "type": "Feature", "properties": { "addr": "然乌湖" }, "geometry": { "type": "Point", "coordinates": [ 96.803582003642248, 29.450245980604642 ] } },
 { "type": "Feature", "properties": { "addr": "波密县  " }, "geometry": { "type": "Point", "coordinates": [ 95.773900121645113, 29.865060090548965 ] } },
 { "type": "Feature", "properties": { "addr": "通麦  " }, "geometry": { "type": "Point", "coordinates": [ 96.489487155549597, 30.918461877848497 ] } },
+{ "type": "Feature", "properties": { "addr": "林芝市排龙乡  " }, "geometry": { "type": "Point", "coordinates": [ 95.00880102073674, 30.023653285066967 ] } },
 { "type": "Feature", "properties": { "addr": "鲁朗镇  " }, "geometry": { "type": "Point", "coordinates": [ 94.733520139672081, 29.737503450882805 ] } },
 { "type": "Feature", "properties": { "addr": "林芝市  " }, "geometry": { "type": "Point", "coordinates": [ 94.36805828713257, 29.654042176951524 ] } },
 { "type": "Feature", "properties": { "addr": "工布江达县  " }, "geometry": { "type": "Point", "coordinates": [ 93.252419796677813, 29.891367616240817 ] } },
@@ -83,6 +85,6 @@
 { "type": "Feature", "properties": { "addr": "云南丽江" }, "geometry": { "type": "Point", "coordinates": [ 100.23246452903453, 26.860657438064884 ] } },
 { "type": "Feature", "properties": { "addr": "云南香格里拉" }, "geometry": { "type": "Point", "coordinates": [ 99.70744457389884, 27.835760125320558 ] } },
 { "type": "Feature", "properties": { "addr": "云南泸沽湖" }, "geometry": { "type": "Point", "coordinates": [ 100.777969981996293, 27.682940001102299 ] } },
-{ "type": "Feature", "properties": { "addr": "云南梅里雪山" }, "geometry": { "type": "Point", "coordinates": [ 103.704809332094143, 30.511405697456574 ] } }
+{ "type": "Feature", "properties": { "addr": "云南德钦县" }, "geometry": { "type": "Point", "coordinates": [ 98.92445265605383, 28.470086006822044 ] } }
 ]
 }
